@@ -18,9 +18,6 @@ struct ContentView: View {
     }
 }
 
-
-
-
 struct CardView: View {
     @State var isFacedUp: Bool
     var body: some View {
